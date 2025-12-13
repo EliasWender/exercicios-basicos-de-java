@@ -1,2 +1,2 @@
-# exercicios-basicos-de-java
+# logica-de-programacao-java
 Listas de exercicios basicos do java
