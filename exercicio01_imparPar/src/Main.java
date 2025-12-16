@@ -1,3 +1,4 @@
+//Esse programa mostra se um número é impar ou par.
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

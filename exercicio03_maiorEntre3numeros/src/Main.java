@@ -1,3 +1,6 @@
+// Esse programa Mostra o maior número digitado pelo usuário.
+
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

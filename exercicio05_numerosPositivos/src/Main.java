@@ -1,3 +1,5 @@
+//Esse programa conta quantos numeros positivos o usuário digitou.
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -6,18 +8,18 @@ public class Main {
 
         System.out.println("Quantos numeros deseja digitar? ");
         int n = sc.nextInt();
-        int[] numeros = new int[n];
+        int[] vetor = new int[n];
 
-        for(int i = 0; i < numeros.length; i++ ){
+        for(int i = 0; i < vetor.length; i++ ){
             System.out.println("Digite um número: ");
-            numeros[i] = sc.nextInt();
+            vetor[i] = sc.nextInt();
 
 
         }
         System.out.println("Números positivos");
-        for(int i = 0; i< numeros.length; i++) {
-            if(numeros[i] > 0) {
-                System.out.println(numeros[i]);
+        for(int i = 0; i< vetor.length; i++) {
+            if(vetor[i] > 0) {
+                System.out.println(vetor[i]);
             }
         }
         System.out.println("Fim do programa");

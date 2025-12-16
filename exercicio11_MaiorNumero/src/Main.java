@@ -1,3 +1,5 @@
+//Esse programa gera números aleatórios e mostra o maior deles.S
+
 import java.util.Random;
 public class Main {
     public static void main(String[] args) {

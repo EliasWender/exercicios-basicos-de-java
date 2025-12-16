@@ -1,3 +1,5 @@
+
+//Esse programa mostra a tabuada até o 10 do número escolhido pelo usuário
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

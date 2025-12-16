@@ -1,3 +1,5 @@
+//Esse programa calcula a media de 3 notas digitadas pelo usuário.
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

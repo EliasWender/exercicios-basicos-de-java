@@ -1,4 +1,4 @@
-
+//Esse programa mostra a sequencia de fibonnaci a partir de um número do usuário.
 
 public class Main {
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio01_imparPar/exercicio01_imparPar.iml" filepath="$PROJECT_DIR$/exercicio01_imparPar/exercicio01_imparPar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio02_mediaNotas/exercicio02_mediaNotas.iml" filepath="$PROJECT_DIR$/exercicio02_mediaNotas/exercicio02_mediaNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio03_maiorEntre3numeros/exercicio03_maiorEntre3numeros.iml" filepath="$PROJECT_DIR$/exercicio03_maiorEntre3numeros/exercicio03_maiorEntre3numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio04_tabuada/exercicio04_tabuada.iml" filepath="$PROJECT_DIR$/exercicio04_tabuada/exercicio04_tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio05_numerosPositivos/exercicio05_numerosPositivos.iml" filepath="$PROJECT_DIR$/exercicio05_numerosPositivos/exercicio05_numerosPositivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio06_somarNumeros/exercicio06_somarNumeros.iml" filepath="$PROJECT_DIR$/exercicio06_somarNumeros/exercicio06_somarNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio07_fatorial/exercicio07_fatorial.iml" filepath="$PROJECT_DIR$/exercicio07_fatorial/exercicio07_fatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio08_sequenciaFibonacci/exercicio08_sequenciaFibonacci.iml" filepath="$PROJECT_DIR$/exercicio08_sequenciaFibonacci/exercicio08_sequenciaFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio09_palindromo/exercicio09_palindromo.iml" filepath="$PROJECT_DIR$/exercicio09_palindromo/exercicio09_palindromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio10_contVogal/exercicio10_contVogal.iml" filepath="$PROJECT_DIR$/exercicio10_contVogal/exercicio10_contVogal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio11_MaiorNumero/exercicio11_MaiorNumero.iml" filepath="$PROJECT_DIR$/exercicio11_MaiorNumero/exercicio11_MaiorNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-basicos-de-java.iml" filepath="$PROJECT_DIR$/.idea/exercicios-basicos-de-java.iml" />
+    </modules>
+  </component>
+</project>
